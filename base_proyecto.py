@@ -77,7 +77,7 @@ def menu_principal():
         
         if continuar == "s":
              print("Iniciando una nueva simulación de negocio")
-        elif continuar == "n":
+        else:
             print("¡Gracias por usar el sistema! Éxitos en tu negocio.")
             break
 
