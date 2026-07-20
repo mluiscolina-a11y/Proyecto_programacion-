@@ -20,7 +20,6 @@ Para ejecutar este programa en tu entorno local, sigue estos sencillos pasos:
    ```bash
    python main.py
    ```
-
 Ejemplos de Uso:
 Al iniciar la aplicación, serás guiado a través de preguntas en la consola. A continuación, se muestra un ejemplo de una interacción típica:
 === Cuentas para el Emprendimiento ===
