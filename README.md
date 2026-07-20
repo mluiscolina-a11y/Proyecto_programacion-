@@ -22,6 +22,7 @@ Para ejecutar este programa en tu entorno local, sigue estos sencillos pasos:
    ```
 Ejemplos de Uso:
 Al iniciar la aplicación, serás guiado a través de preguntas en la consola. A continuación, se muestra un ejemplo de una interacción típica:
+```
 === Cuentas para el Emprendimiento ===
 ¿Cuántos productos desea vender?: 2
 --- Producto 1 ---
@@ -43,6 +44,7 @@ Y su ganancia neta total es de: 13.0 $
 ====================================
 ¿Desea calcular otro negocio? (S/N): n
 ¡Gracias por usar el sistema! Éxitos en tu negocio.
+```
 
 Distribución y Contribución:
 La estructura de este código está pensada para ser modular y fácil de escalar. Eres libre de distribuir y modificar el programa para añadirle nuevas funciones, como exportar el resultado general a un archivo de texto o conectarlo con una base de datos. 
